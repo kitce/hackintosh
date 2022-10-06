@@ -1,4 +1,6 @@
-# Hackintosh
+# Intel-i7-10700K_RX-550-Lexa
+
+## Build
 
 | Part | Model |
 | --- | --- |
